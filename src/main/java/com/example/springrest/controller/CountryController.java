@@ -1,5 +1,6 @@
-package com.example.springrest;
+package com.example.springrest.controller;
 
+import com.example.springrest.domain.Country;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

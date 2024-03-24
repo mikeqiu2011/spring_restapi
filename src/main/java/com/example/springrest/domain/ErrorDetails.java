@@ -1,4 +1,4 @@
-package com.example.springrest;
+package com.example.springrest.domain;
 
 public record ErrorDetails(
         String message
